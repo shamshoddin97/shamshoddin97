@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:opsz,wght@10..72,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders:opsz,wght@10..72,100..900&display=swap');
+#box{
+    background-color:black ;
+    width:300px;
+    height:100px;
+    position: relative;
+    left:50px
+   
+    
+}
+h1{
+    font-family: "Big Shoulders Stencil", sans-serif;
+    color: white;
+}
+p{
+    font-family: "Big Shoulders", sans-serif;
+    color: white;
+}
+h4{
+    color: white;
+}
+h5{
+    color:white
+}
+
+#box1{
+    background-color: black;
+    width: 500px;
+    height: 100px;
+    margin-top: 10px;
+    
+}
+#TextPanel{
+    padding-left:100px;
+    position: relative;
+    left: 101px;
+    width:100px
+}
+#Logo{
+    width: 100px;
+    margin-bottom: 10px;
+    position: relative;
+    left:50px;
+    top:10px;
+}
+#b{
+    background-color: aliceblue;
+}
+#desc{
+    position: relative;
+    left: 400px;
+}
+#button{
+    background-color:blue;border-radius: 100px;
+    position: relative;
+    bottom: 35px;
+    left: 100px;
+}
+#bpanel{
+    position: relative;
+    left: 500px;
+}
